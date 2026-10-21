@@ -1,6 +1,6 @@
 {
    "name": "@elfhkry666/baileys",
-   "version": "0.3.21",
+   "version": "0.3.25",
    "description": "KaelPedia fork of Baileys v7 — newsletter media fixes, interactive messages, albums, and extra message types. Based on @itsliaaa/baileys v0.3.18.",
    "main": "lib/index.js",
    "types": "lib/index.d.ts",
